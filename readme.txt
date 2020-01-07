@@ -5,8 +5,8 @@ Requires at least: 4.9
 Tested up to: 5.3.2
 Requires PHP: 5.6
 Stable tag: 1.0.0
-License: GPLv2
-License URI: https://github.com/dmhendricks/rank-math-page-analysis-tab/blob/master/LICENSE
+License: GPLv2 or later
+License URI: https://github.com/dmhendricks/page-analysis-tab-rank-math/blob/master/LICENSE
 
 An add-on for the Rank Math WordPress plugin that moves On-Page Analysis from the General tab to its own.
 
@@ -14,7 +14,7 @@ An add-on for the Rank Math WordPress plugin that moves On-Page Analysis from th
 
 This plugin is an simply add-on for the [Rank Math](https://wordpress.org/plugins/seo-by-rank-math/) plugin. It moves On-Page Analysis from the General tab to its own.
 
-GitHub repo: [https://github.com/dmhendricks/rank-math-page-analysis-tab](https://github.com/dmhendricks/rank-math-page-analysis-tab)
+GitHub repo: [https://github.com/dmhendricks/page-analysis-tab-rank-math](https://github.com/dmhendricks/page-analysis-tab-rank-math)
 
 **Requirements**
 

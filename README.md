@@ -1,4 +1,4 @@
-[![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc )](https://www.danhendricks.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Fpage-analysis-tab-rank-math)
+[![Author](https://img.shields.io/badge/author-Daniel%20M.%20Hendricks-lightgrey.svg?colorB=9900cc)](https://www.danhendricks.com/?utm_source=github.com&utm_medium=campaign&utm_content=button&utm_campaign=dmhendricks%2Fpage-analysis-tab-rank-math)
 [![License](https://img.shields.io/badge/license-GPLv2-yellow.svg)](https://github.com/dmhendricks/wordpress-lazy-load-attribute-plugin/blob/master/LICENSE)
 [![DigitalOcean](https://img.shields.io/badge/hosting-Digital%20Ocean-green.svg?style=flat-square&label=hosting&colorB=0152FF)](https://m.do.co/t/8a88362f5683?utm_source=github.com&utm_medium=referral&utm_content=referral&utm_campaign=dmhendricks%2Fpage-analysis-tab-rank-math)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/dmhendricks/page-analysis-tab-rank-math.svg?style=social)](https://twitter.com/danielhendricks)
@@ -19,4 +19,8 @@ This plugin is an simply add-on for the [Rank Math](https://rankmath.com/?utm_so
 
 ## Installation
 
-[Download the ZIP](archive/master.zip) file and install as you normally would in WordPress by clicking **Plugins** > **Add New** > **Upload Plugin**.
+[Download the ZIP](https://github.com/dmhendricks/page-analysis-tab-rank-math/archive/master.zip) file and install as you normally would in WordPress by clicking **Plugins** > **Add New** > **Upload Plugin**.
+
+## Screenshot
+
+![Page Analysis Tab for Rank Math](https://raw.githubusercontent.com/dmhendricks/rank-math-page-analysis-tab/master/screenshot.gif)
