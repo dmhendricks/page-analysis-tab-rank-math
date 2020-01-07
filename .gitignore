@@ -1,0 +1,10 @@
+__MACOSX
+**.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+.npmrc
+._*
+*.un~
+*.bak
+*.log
